@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="start">Vamos começar?</string>
+    <string name="input_name">Qual seu nome?</string>
+    <string name="btnSave">SALVAR</string>
+</resources>
